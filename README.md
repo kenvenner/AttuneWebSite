@@ -40,7 +40,7 @@ Here is the google projects area where we connected DNS to our website
 ### Deploying updates of the website to the project
 updated the data in the folder attune-web-site/www
 
-go to that folder:  attune-web-site
+go to the deployment folder:  attune-web-site (this houses app.yaml)
 
 login to gcloud:
 
