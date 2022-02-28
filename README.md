@@ -42,13 +42,9 @@ updated the data in the folder attune-web-site/www
 
 go to the deployment folder:  attune-web-site (this houses app.yaml)
 
-login to gcloud:
+login to gcloud:  gcloud auth login
 
-gcloud auth login
-
-deploy the update:
-
-gcloud app deploy
+deploy the update:  gcloud app deploy
 
 What you will see is:
 
