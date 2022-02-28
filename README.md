@@ -38,7 +38,15 @@ Here is the google projects area where we connected DNS to our website
 <https://console.cloud.google.com/appengine/settings/domains?project=attune-web-site&folder&organizationId=477930717646>
 
 ### Deploying updates of the website to the project
-updated the data in the folder www and then
+updated the data in the folder attune-web-site/www
+
+go to that folder:  attune-web-site
+
+login to gcloud:
+
+gcloud auth login
+
+deploy the update:
 
 gcloud app deploy
 
